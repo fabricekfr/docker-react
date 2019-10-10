@@ -7,4 +7,3 @@ before_install:
 
 script:
   - docker run fabricekfr/docker-react npm run test -- --coverage
-  
